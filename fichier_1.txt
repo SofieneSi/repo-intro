@@ -1,0 +1,2 @@
+echo "ceci est mon premier fichier"
+
